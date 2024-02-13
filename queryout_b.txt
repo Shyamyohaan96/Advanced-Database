@@ -1,0 +1,15 @@
+Miami FL,15
+Dallas TX,14
+Lawton OK,18
+Norman OK,17
+Houston TX,19
+Trenton NJ,14
+Wichita KS,16
+Bismarck ND,18
+Corsicana TX,17
+Rochester NY,17
+Pittsburgh PA,14
+Kansas City MO,13
+Tallahassee FL,9
+Fort Lauderdale,11
+Fort Lauderdale FL,1
